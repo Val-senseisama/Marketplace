@@ -159,13 +159,13 @@ const SingleProduct = () => {
                   </div>
                   <div className='d-flex align-items-center gap-15'>
                     <div>
-                      <a href=''>
+                      <a href='/'>
                         <TbGitCompare className='fs-5 me-2' />
                         Add To Compare
                       </a>
                     </div>
                     <div>
-                      <a href=''>
+                      <a href='/'>
                         <AiOutlineHeart className='fs-5 me-2' /> Add To Wishlist
                       </a>
                     </div>
@@ -241,7 +241,7 @@ const SingleProduct = () => {
                     <div>
                       <a
                         className='text-dark text-decoration-underline'
-                        href=''
+                        href='/'
                       >
                         Write a Review
                       </a>
