@@ -10,7 +10,7 @@ import Blog from "./pages/Blog";
 import CompareProduct from "./pages/CompareProduct";
 import Wishlist from "./pages/Wishlist";
 import Login from "./pages/Login";
-import ForgotPassword from "./ForgotPassword";
+import ForgotPassword from "./pages/ForgotPassword";
 import Signup from "./Signup";
 import ResetPassword from "./pages/ResetPassword";
 import SingleBlog from "./pages/SingleBlog";

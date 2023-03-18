@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import BreadCrumb from "./components/BreadCrumb";
-import Meta from "./components/meta";
+import BreadCrumb from "../components/BreadCrumb";
+import Meta from "../components/meta";
 
 const ForgotPassword = () => {
   return (
